@@ -12,7 +12,7 @@
 
 e.g.
 
-孙辰宁（2022213192）：
+孙辰宁（2022213192）：https://github.com/scn0901/MediaProgramming-THU-2022213192
 
 
 
